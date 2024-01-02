@@ -1,5 +1,5 @@
 # Kaggle-Competition-Laptop-Prices
-In this Kaggle competition, the aim is to obtain a price prediction (regression model) for laptops according to their brands and features in order to launch them at a competitive price into the market.
+In this [Kaggle competition](https://www.kaggle.com/competitions/precio-portatiles-the-bridge), the aim is to obtain a price prediction (regression model) for laptops according to their brands and features in order to launch them at a competitive price into the market.
 The dataset has the following fields:
 1. Company- String -Laptop Manufacturer
 2. Product -String -Brand and Model
