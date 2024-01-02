@@ -13,4 +13,5 @@ The dataset has the following fields:
 10. OpSys -String- Operating System
 11. Weight -String- Laptop Weight
 12. Price_euros -Numeric- Price (Euro)
+
 The syntax of the fields is quite messy, which means there will be a lot of feature engineering to do!
